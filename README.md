@@ -48,5 +48,5 @@ Have a unique concept or custom program idea you want to realize? I specialize i
 📫 **How to reach me:** office@gammick.co.il
 
 Good luck!!
-<img width="900" height="300" alt="חתימת מייל" src="https://github.com/user-attachments/assets/f9650f1f-1e7e-4f30-843c-c4ccba7492ce" />
+<img alt="חתימת מייל" src="https://github.com/user-attachments/assets/f9650f1f-1e7e-4f30-843c-c4ccba7492ce" />
 
