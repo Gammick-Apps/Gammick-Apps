@@ -1,3 +1,5 @@
+<img width="2235" height="720" alt="גריד כותרת ניוזלטר-01" src="https://github.com/user-attachments/assets/d5fb14ed-17a9-49b6-aa35-ccfcaa086c1a" />
+
 # Hi there, I'm Efrat Malka! 👋
 
 I am a Software Developer with 5 years of experience working across a diverse range of programming languages and frameworks.
