@@ -1,4 +1,4 @@
-<img width="900" height="300" alt="גריד כותרת ניוזלטר-01" src="https://github.com/user-attachments/assets/d5fb14ed-17a9-49b6-aa35-ccfcaa086c1a" />
+<img src="https://github.com/user-attachments/assets/d5fb14ed-17a9-49b6-aa35-ccfcaa086c1a" />
 
 # Hi there, I'm Efrat Malka! 👋
 
@@ -48,5 +48,5 @@ Have a unique concept or custom program idea you want to realize? I specialize i
 📫 **How to reach me:** office@gammick.co.il
 
 Good luck!!
-<img alt="חתימת מייל" src="https://github.com/user-attachments/assets/f9650f1f-1e7e-4f30-843c-c4ccba7492ce" />
+<img src="https://github.com/user-attachments/assets/f9650f1f-1e7e-4f30-843c-c4ccba7492ce" />
 
